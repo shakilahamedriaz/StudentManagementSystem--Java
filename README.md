@@ -16,7 +16,7 @@ The Student Management System is a comprehensive and user-friendly solution desi
 
 ## Screenshots
 
-![Screenshot 1](./view1.png)
+![Screenshot 1](view1.png)
 *Caption for Image 1*
 
 ![Screenshot 2](view2)
