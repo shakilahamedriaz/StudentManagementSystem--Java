@@ -14,47 +14,39 @@ The Student Management System is a comprehensive and user-friendly solution desi
    
 5. **Show Information:** Develop a feature-rich display module that presents comprehensive information about students, including enrollment details, attendance records, and academic performance.
 
-## Screenshots
+## Projec
 
 ![Screenshot 1](view1.png)
-*Caption for Image 1*
+*All Features*
 
-![Screenshot 2](view2)
-*Caption for Image 2*
+![Screenshot 2](view2.png)
+*information*
 
-![Screenshot 3](view3)
-*Caption for Image 3*
+![Screenshot 3](view3.png)
+*information*
 
-![Screenshot 4](view4)
-*Caption for Image 4*
+![Screenshot 4](view4.png)
+*information*
 
-![Screenshot 5](view5)
-*Caption for Image 5*
+![Screenshot 5](view5.png)
+*information*
 
-![Screenshot 6](view6)
-*Caption for Image 6*
+![Screenshot 6](view6.png)
+*information*
 
-## Getting Started
 
-### Prerequisites
-
-- [List any prerequisites or dependencies here]
-
-### Installation
-
-1. [Provide installation instructions]
 
 ### Usage
 
-1. [Explain how to use the system]
+1. [will be update]
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [will be update) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+Not yeat
 
 ## Acknowledgments
 
